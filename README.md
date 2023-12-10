@@ -1,2 +1,3 @@
 # Data-Science-Analysis
-SKKU Data Science and Analysis
+SKKU Data Science and Analysis Lecture  
+
